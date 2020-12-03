@@ -1,5 +1,5 @@
 title: Chenjae's git
-description: 진취형 개발자, Chenjae
+description: 개발자로 진화중, Chenjae
 baseurl: "/Chenjae" # the subpath of your site, e.g. /blog
 url: "https://Chenjae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -12,14 +12,14 @@ author-twitter: # Add your twitter account
 about-author:   진취형 개발자
 
 # Social settings
-social-twitter:   
-social-facebook:
+social-twitter: null
+social-facebook: null
 social-github:    chenjae
-social-pinterest: 
-social-instagram: 
-social-youtube:
-social-vk:   
-social-linkedin:
+social-pinterest: null
+social-instagram: chen.jae
+social-youtube: null
+social-vk:   null
+social-linkedin: null
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
