@@ -1,6 +1,6 @@
 title: Chenjae's git
 description: 개발자로 진화중, Chenjae
-baseurl: "/chenjae" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chenjae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
