@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2018-02-05 15:13:18 +0200
+title: "github를 이용한 블로그를 시작하다!"
+date: 2020-12-04 01:33:00 +0200
 image: 12.jpg
 tags: [jekyll, docs]
 categories: jekyll
 ---
+
+드디어 처음으로 github를 제대로 사용하는 날이 왔다.
+귀찮음으로 인해 네이버 블로그에서 github로 이사를 미루고 미뤘는데 이제서야 시작하는구나..
+앞으로 꾸준히 github를 관리해야겠다~
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
